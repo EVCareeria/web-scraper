@@ -1,0 +1,12 @@
+[submodule "src/fi/hg/core"]
+	path = src/fi/hg/core
+	url = https://github.com/heusalagroup/fi.hg.core.git
+	branch = main
+[submodule "src/fi/hg/node"]
+	path = src/fi/hg/node
+	url = https://github.com/heusalagroup/fi.hg.node.git
+	branch = main
+[submodule "src/fi/hg/backend"]
+	path = src/fi/hg/backend
+	url = https://github.com/heusalagroup/fi.hg.backend.git
+	branch = main
